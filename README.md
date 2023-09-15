@@ -43,7 +43,7 @@
 ---
 ## <p align=center>`Hobbies`
 ---
-<br>Because my friends say computers are work, not hobbies. 🤷‍♂️
+<br>Because some would say computers are work, not a hobbie. 🥸
 ```
 - 🏎️ Cars.
 - 🧊 3D printing.
