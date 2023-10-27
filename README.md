@@ -5,7 +5,7 @@
 ---
 ## <p align=center>`Hi, I’m Guillermo!`
 ---
-<p align=center>🧑‍💻<br> I am systems admin since 2013.<br>I am into machines since I have memory.<br>· <a href="https://www.linkedin.com/in/gvrubio/">LinkedIn</a> · <br><br>
+<p align=center>🧑‍💻<br> I work on IT since 2013.<br>I am into machines since I have memory.<br>· <a href="https://www.linkedin.com/in/gvrubio/">LinkedIn</a> · <br><br>
 
 ---
 ## <p align=center>`Makes me happy`
