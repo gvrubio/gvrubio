@@ -24,9 +24,9 @@
 ## <p align=center>`I do not like`
 ---
 ```
-- 🐍 Snake oil salesmans.
+- 🐍 Some sales people.
 - 🍀 Non redundant systems.
-- 🤦 People that does not care.
+- 🤦 People that does not care about learning.
 - 🖱️ E-Waste.
 ```
 ---
